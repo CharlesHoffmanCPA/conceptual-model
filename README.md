@@ -1,2 +1,6 @@
-# conceptual-model
-Conceptual model of a financial report
+# Conceptual Model
+Conceptual model of a financial report.
+
+[Documentation](http://xbrl.squarespace.com/conceptual-model/)
+
+To do.
